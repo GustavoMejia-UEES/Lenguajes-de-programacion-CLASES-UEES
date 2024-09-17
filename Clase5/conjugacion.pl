@@ -90,4 +90,3 @@ conjugar_verbo(Verbo, Tiempo, Persona, Numero, Conjugacion):-
         Conjugacion = Verbo
     ).
 
-conjugar_verbo("to play", presente, primera, singular, Conjugacion).
